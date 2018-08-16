@@ -18,9 +18,11 @@ Video showcasing the Italian vanilla localization:
 ### Setup
 Strings, sounds and DBCs packaged in MPQ, also includes localized intro video:
 https://drive.google.com/uc?export=download&id=1CyqG8E1Ovq2DQzLwh-2AQAEVnHaP6D_s
+
 Do note that the strings included in the above download do not include any comments.
 
-Installation: Put it into your root WoW folder (where wow.exe is located) and click yes when asked to replace files. Boot up WoW and enjoy vanilla in Italian.
+### Installation: 
+Put it into your root WoW folder (where wow.exe is located) and click yes when asked to replace files. Boot up WoW and enjoy vanilla in Italian.
 
 ### F.A.Q: Is it save to run? 
 It is safe to run on any vanilla realm which accepts the Russian 1.12.1 client. There is no realm that blocks the Russian vanilla client, so the Italian vanilla client should be safe to run on any server.
